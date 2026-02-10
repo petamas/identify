@@ -325,6 +325,7 @@ EXTENSIONS = {
     'zsh': {'text', 'shell', 'zsh'},
 }
 EXTENSIONS_NEED_BINARY_CHECK = {
+    'entitlements': {'plist', 'entitlements'},
     'plist': {'plist'},
     'ppm': {'image', 'ppm'},
 }
